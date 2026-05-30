@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchfncrypt",
+        "uuid": 5203280,
+        "checksum": "q7y4x"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
